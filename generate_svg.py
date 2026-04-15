@@ -164,7 +164,7 @@ def build_svg(stats):
     ]
 
     # Language bar lines
-    bar_width = 38  # chars
+    bar_width = 50  # chars
     for lang, pct in langs:
         filled = round(pct / 100 * bar_width)
         bar = "█" * filled + "░" * (bar_width - filled)
