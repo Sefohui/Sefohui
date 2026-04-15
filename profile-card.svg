@@ -61,11 +61,12 @@
   <text x="528.8" y="190" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Hobbies</tspan><tspan fill="#5c6b7a">: ..................... </tspan><tspan fill="#cdd6f4">Planes, Web Development,</tspan></text>
   <text x="528.8" y="206" fill="#cdd6f4" xml:space="preserve">          Game Development, Music, Tech</text>
   <text x="528.8" y="238" fill="#c792ea" xml:space="preserve">─ GitHub Stats ──────────────────────────────</text>
-  <text x="528.8" y="254" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Repos</tspan><tspan fill="#5c6b7a">: ....................... </tspan><tspan fill="#cdd6f4">0 (Contributed: 0)  |  Stars: 0</tspan></text>
-  <text x="528.8" y="270" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Commits</tspan><tspan fill="#5c6b7a">: ..................... </tspan><tspan fill="#cdd6f4">0</tspan></text>
+  <text x="528.8" y="254" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Repos</tspan><tspan fill="#5c6b7a">: ....................... </tspan><tspan fill="#cdd6f4">10 (Contributed: 10)  |  Stars: 0</tspan></text>
+  <text x="528.8" y="270" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Commits</tspan><tspan fill="#5c6b7a">: ..................... </tspan><tspan fill="#cdd6f4">75</tspan></text>
   <text x="528.8" y="286" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Followers</tspan><tspan fill="#5c6b7a">: ................... </tspan><tspan fill="#cdd6f4">0</tspan></text>
   <text x="528.8" y="318" fill="#c792ea" xml:space="preserve">─ Top Languages ─────────────────────────────</text>
-  <text x="528.8" y="334" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">Python        </tspan><tspan fill="#c792ea">███████████████████████░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 60.0%</tspan></text>
-  <text x="528.8" y="350" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">JavaScript    </tspan><tspan fill="#c792ea">███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 30.0%</tspan></text>
-  <text x="528.8" y="366" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">HTML          </tspan><tspan fill="#c792ea">████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 10.0%</tspan></text>
+  <text x="528.8" y="334" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">TypeScript    </tspan><tspan fill="#c792ea">███████████████████░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 51.0%</tspan></text>
+  <text x="528.8" y="350" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">HTML          </tspan><tspan fill="#c792ea">█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 23.2%</tspan></text>
+  <text x="528.8" y="366" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">Svelte        </tspan><tspan fill="#c792ea">█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 14.1%</tspan></text>
+  <text x="528.8" y="382" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">JavaScript    </tspan><tspan fill="#c792ea">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 5.1%</tspan></text>
 </svg>
