@@ -1,1 +1,0 @@
-![Sefohui](./profile-card.svg)
