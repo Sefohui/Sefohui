@@ -94,7 +94,7 @@ def esc(s):
     return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
 
 def build_svg(stats):
-    ascii_art = [
+    RAW_ASCII = [
         "                                                                                                    ",
         "                                                                                                    ",
         "                                                                                                    ",
@@ -137,6 +137,9 @@ def build_svg(stats):
         "                                     +=+=+=++====+++-====-*----==                                   ",
         "                                    ++===+#=======+++-===-=-----==                                  ",
     ]
+    # Trim common leading whitespace
+    _min_indent = min(len(l) - len(l.lstrip()) for l in RAW_ASCII if l.strip())
+    ascii_art = [l[_min_indent:] for l in RAW_ASCII]
 
     langs = stats["languages"]
 
@@ -176,8 +179,8 @@ def build_svg(stats):
     PAD_Y = 14
 
     max_ascii_width = max(len(l.rstrip()) for l in ascii_art)
-    INFO_COLS = 56
-    GAP = 20
+    INFO_COLS = 72  # measured: longest line is 66 chars
+    GAP = 24
     INFO_START_X = PAD_X + max_ascii_width * CH + GAP
 
     CYAN   = "#00e5ff"
