@@ -53,7 +53,7 @@
   <text x="331.2" y="30" xml:space="preserve"><tspan fill="#00e5ff" font-weight="bold">Sefohui</tspan><tspan fill="#5c6b7a">@</tspan><tspan fill="#c792ea" font-weight="bold">github</tspan></text>
   <text x="331.2" y="46" fill="#5c6b7a" xml:space="preserve">─────────────────────────────────────────────</text>
   <text x="331.2" y="62" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">OS</tspan><tspan fill="#5c6b7a">: .......................... </tspan><tspan fill="#cdd6f4">Windows 11, MacOS Tahoe</tspan></text>
-  <text x="331.2" y="78" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Uptime</tspan><tspan fill="#5c6b7a">: ...................... </tspan><tspan fill="#cdd6f4">26 years, 1 months, 21 days</tspan></text>
+  <text x="331.2" y="78" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Uptime</tspan><tspan fill="#5c6b7a">: ...................... </tspan><tspan fill="#cdd6f4">26 years, 1 months, 22 days</tspan></text>
   <text x="331.2" y="94" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Host</tspan><tspan fill="#5c6b7a">: ........................ </tspan><tspan fill="#cdd6f4">None</tspan></text>
   <text x="331.2" y="110" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Kernel</tspan><tspan fill="#5c6b7a">: ...................... </tspan><tspan fill="#cdd6f4">Nobody</tspan></text>
   <text x="331.2" y="142" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Languages.Programming</tspan><tspan fill="#5c6b7a">: ....... </tspan><tspan fill="#cdd6f4">Python, HTML, CSS, JavaScript</tspan></text>
@@ -61,12 +61,12 @@
   <text x="331.2" y="190" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Hobbies</tspan><tspan fill="#5c6b7a">: ..................... </tspan><tspan fill="#cdd6f4">Planes, Web Development,</tspan></text>
   <text x="331.2" y="206" fill="#cdd6f4" xml:space="preserve">          Game Development, Music, Tech</text>
   <text x="331.2" y="238" fill="#c792ea" xml:space="preserve">─ GitHub Stats ──────────────────────────────</text>
-  <text x="331.2" y="254" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Repos</tspan><tspan fill="#5c6b7a">: ....................... </tspan><tspan fill="#cdd6f4">10 (Contributed: 10)  |  Stars: 0</tspan></text>
-  <text x="331.2" y="270" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Commits</tspan><tspan fill="#5c6b7a">: ..................... </tspan><tspan fill="#cdd6f4">85</tspan></text>
+  <text x="331.2" y="254" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Repos</tspan><tspan fill="#5c6b7a">: ....................... </tspan><tspan fill="#cdd6f4">11 (Contributed: 11)  |  Stars: 0</tspan></text>
+  <text x="331.2" y="270" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Commits</tspan><tspan fill="#5c6b7a">: ..................... </tspan><tspan fill="#cdd6f4">86</tspan></text>
   <text x="331.2" y="286" xml:space="preserve"><tspan fill="#5c6b7a">. </tspan><tspan fill="#00e5ff">Followers</tspan><tspan fill="#5c6b7a">: ................... </tspan><tspan fill="#cdd6f4">1</tspan></text>
   <text x="331.2" y="318" fill="#c792ea" xml:space="preserve">─ Top Languages ─────────────────────────────</text>
-  <text x="331.2" y="334" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">TypeScript    </tspan><tspan fill="#c792ea">███████████████████░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 50.6%</tspan></text>
-  <text x="331.2" y="350" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">HTML          </tspan><tspan fill="#c792ea">█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 23.2%</tspan></text>
-  <text x="331.2" y="366" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">Svelte        </tspan><tspan fill="#c792ea">█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 14.0%</tspan></text>
-  <text x="331.2" y="382" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">JavaScript    </tspan><tspan fill="#c792ea">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 5.7%</tspan></text>
+  <text x="331.2" y="334" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">TypeScript    </tspan><tspan fill="#c792ea">████████████████░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 43.3%</tspan></text>
+  <text x="331.2" y="350" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">HTML          </tspan><tspan fill="#c792ea">████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 21.5%</tspan></text>
+  <text x="331.2" y="366" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">JavaScript    </tspan><tspan fill="#c792ea">██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 15.4%</tspan></text>
+  <text x="331.2" y="382" xml:space="preserve"><tspan fill="#5c6b7a">  </tspan><tspan fill="#00e5ff">Svelte        </tspan><tspan fill="#c792ea">█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#5c6b7a"> 12.0%</tspan></text>
 </svg>
